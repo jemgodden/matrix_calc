@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jemgodden/CLionProjects/matrix_calc/main.c
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+math.h
+-
+
