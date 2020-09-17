@@ -1,6 +1,7 @@
 # matrix_calc
 
 This program has the ability to perform multiple different operations on one or more input matrices.
+
 This program can: calculate the Frobenius Norm of a single matrix, find the Transpose of a single matrix, find the Product of two matrices, find the Determinant of a single matrix, find the Adjoint of a single matrix and find the Inverse of a single matrix.
 
 # Downloading
